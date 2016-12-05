@@ -1,0 +1,5 @@
+com\oscar\todolist\authent\Authentication.class
+com\oscar\todolist\authent\LoginDTO.class
+com\oscar\todolist\control\MainControl.class
+com\oscar\todolist\authent\LoginResponseDTO.class
+com\oscar\todolist\control\config\SpringWebConfig.class
